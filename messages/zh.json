@@ -8,15 +8,15 @@
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "图片压缩工具",
+      "description": "免费使用无收费。使用我们直观的工具，快速完成图片大小压缩。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "质量选择",
+        "description": "大小选择"
       },
       "storyStructure": {
         "title": "故事结构",
